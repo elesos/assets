@@ -1,0 +1,1 @@
+# elesos.static.assets
