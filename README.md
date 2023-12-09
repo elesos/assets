@@ -1,1 +1,1 @@
-# elesos.static.assets
+# static assets for elesos.github.io
